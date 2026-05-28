@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller/build artifacts
+build/
+dist/
+*.pkg
+*.pyz
+*.toc
+*.manifest
+*.spec~
+
+# Generated report/output folders
+reports/
+submission_report/
+converted_excel/
+with_panel_group/
+panel_completeness_reports/
+consolidated_file/
+docx_render_check/
+
+# Generated report workbooks
+completeness_report_*.xlsx
+completeness_consolidated.xlsx
+diagnosis_consolidated.xlsx
+qc_matrix_*.xlsx
+qc_consolidated_report.xlsx
+on_time_submission_report.xlsx
+no_growth_encoding_*.xlsx
+negatives_consolidated_report.xlsx
+Consolidated_Panel_Completeness.xlsx
+panel_completeness_*.xlsx
+
+# Local shortcuts and temporary files
+*.lnk
+~$*
+*.tmp
+
+# One-off document builder scripts
+create_*_context_doc.py
