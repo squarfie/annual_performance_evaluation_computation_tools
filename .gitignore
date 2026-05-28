@@ -19,6 +19,7 @@ with_panel_group/
 panel_completeness_reports/
 consolidated_file/
 docx_render_check/
+release_executables/
 
 # Generated report workbooks
 completeness_report_*.xlsx
